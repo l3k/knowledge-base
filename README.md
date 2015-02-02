@@ -14,7 +14,12 @@ https://igor.io/2013/03/31/stateless-services.html
 SOLID
 
 http://www.codemag.com/article/1001061
+
 http://code.tutsplus.com/tutorials/solid-part-1-the-single-responsibility-principle--net-36074
+
 http://code.tutsplus.com/tutorials/solid-part-2-the-openclosed-principle--net-36600
+
 http://code.tutsplus.com/tutorials/solid-part-3-liskov-substitution-interface-segregation-principles--net-36710
+
 http://code.tutsplus.com/tutorials/solid-part-4-the-dependency-inversion-principle--net-36872
+
